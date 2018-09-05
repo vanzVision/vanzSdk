@@ -26,7 +26,7 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>vanzsdk</groupId>
+      <groupId>com.github.jiangdongguo</groupId>
       <artifactId>libusbcamera</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
