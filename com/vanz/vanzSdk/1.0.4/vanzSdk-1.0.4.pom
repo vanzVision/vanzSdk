@@ -32,9 +32,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.github.ChenArno</groupId>
-      <artifactId>SerialPort</artifactId>
-      <version>0.0.4</version>
+      <groupId>vanzsdk</groupId>
+      <artifactId>libvanzserialport</artifactId>
+      <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
