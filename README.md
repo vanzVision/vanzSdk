@@ -15,10 +15,6 @@ allprojects {
 app build.gradle
 ```Java
 dependencies{
-      compile('com.vanz:vanzSdk:1.0.7'){
-        exclude module: 'libvanzcamera'
-        exclude module: 'openCVLibrary320'
-        exclude module: 'libvanzserialport'
-    }
+      compile('com.vanz:vanzSdk:1.0.8')
 }
 ```
