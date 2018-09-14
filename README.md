@@ -8,6 +8,9 @@ allprojects {
     repositories {
         ...
         maven { url "https://github.com/vanzVision/vanzSdk/raw/master" }
+        maven { url "https://github.com/vanzVision/openCvHelper/raw/master" }
+        maven { url 'http://raw.github.com/saki4510t/libcommon/master/repository/' }
+        maven { url 'https://jitpack.io' }
     }
 }
 ```
