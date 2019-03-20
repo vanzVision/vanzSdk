@@ -17,9 +17,12 @@ allprojects {
 app build.gradle
 ```Java
 dependencies{
-      compile('com.vanz:vanzSdk:1.0.18')
+      compile('com.vanz:vanzSdk:1.0.19')
 }
 ```
+## 2019.03.20
+### 重点更新
+* 解决标定异常问题
 
 ## 2019.03.19
 ### 重点更新
