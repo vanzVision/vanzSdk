@@ -17,7 +17,7 @@ allprojects {
 app build.gradle
 ```Java
 dependencies{
-      compile('com.vanz:vanzSdk:1.0.20')
+      compile('com.vanz:vanzSdk:1.0.21')
 }
 ```
 ## 2019.03.20
