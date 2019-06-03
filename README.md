@@ -20,6 +20,10 @@ dependencies{
       compile('com.vanz:vanzSdk:1.0.21')
 }
 ```
+## 2019.03.21
+### 重点更新
+* 更改消磁逻辑，1、消磁准备（生成订单时进行操作）vanz.xiaochiReady();2、进行消磁,vanz.xiaochi();
+
 ## 2019.03.20
 ### 重点更新
 * 解决"标定点加载失败"问题
