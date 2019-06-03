@@ -20,7 +20,7 @@ dependencies{
       compile('com.vanz:vanzSdk:1.0.21')
 }
 ```
-## 2019.03.21
+## 2019.06.1
 ### 重点更新
 * 更改消磁逻辑，1、消磁准备（生成订单时进行操作）vanz.xiaochiReady();2、进行消磁,vanz.xiaochi();
 
